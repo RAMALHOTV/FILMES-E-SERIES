@@ -99,7 +99,7 @@ http://rec2.distv.net:80/clemente/clemente/208
 http://rec2.distv.net:80/clemente/clemente/243
 
 #EXTINF:-1 tvg-id="RAMALHOTV VIP" tvg-logo="https://www.wdkx.com/wp-content/uploads/2020/07/image.png" group-title="Filmes e Séries", Filmes e Series
-
+http://212.224.9
 #EXTINF:-1 tvg-id="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Filmes e Séries",HBO
 http://212.224.98.208:2200/BR/HBO_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
 
