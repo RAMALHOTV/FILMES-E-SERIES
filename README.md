@@ -3,100 +3,76 @@
 http://distv.
 
 
-#EXTINF:-1 tvg-id="" tvg-name="A&E " tvg-logo="http://distv.net/icons/ae.png" group-title="FILMES E SERIES",A&E 
-http://rec2.distv.net:80/clemente/clemente/113
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://distv.net/icons/amc.png" group-title="FILMES E SERIES",AMC
-http://rec2.distv.net:80/clemente/clemente/223
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://distv.net/icons/axn.png" group-title="FILMES E SERIES",AXN
-http://rec2.distv.net:80/clemente/clemente/116
-#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL" tvg-logo="http://distv.net/icons/canalbrasil.png" group-title="ENTRETENIMENTO",CANAL BRASIL
-http://rec2.distv.net:80/clemente/clemente/122
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY" tvg-logo="http://distv.net/icons/sonychannel.png" group-title="FILMES E SERIES",CANAL SONY
-http://rec2.distv.net:80/clemente/clemente/123
-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 01
-http://rec2.distv.net:80/clemente/clemente/48
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 02
-http://rec2.distv.net:80/clemente/clemente/49
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 03
-http://rec2.distv.net:80/clemente/clemente/50
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 04
-http://rec2.distv.net:80/clemente/clemente/51
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 05
-http://rec2.distv.net:80/clemente/clemente/52
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 06
-http://rec2.distv.net:80/clemente/clemente/53
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 07
-http://rec2.distv.net:80/clemente/clemente/54
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 08
-http://rec2.distv.net:80/clemente/clemente/55
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 09
-http://rec2.distv.net:80/clemente/clemente/56
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 10
-http://rec2.distv.net:80/clemente/clemente/57
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="http://distv.net/icons/cinemax.png" group-title="FILMES E SERIES",CINEMAX
-http://rec2.distv.net:80/clemente/clemente/125
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="http://distv.net/icons/comedycentral.png" group-title="FILMES E SERIES",COMEDY CENTRAL
-http://rec2.distv.net:80/clemente/clemente/127
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="http://distv.net/icons/foxchannel.png" group-title="FILMES E SERIES",FOX
-http://rec2.distv.net:80/clemente/clemente/148
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="http://distv.net/icons/foxlife.png" group-title="FILMES E SERIES",FOX LIFE
-http://rec2.distv.net:80/clemente/clemente/149
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1" tvg-logo="http://distv.net/icons/foxpremium1.png" group-title="FILMES E SERIES",FOX PREMIUM 1
-http://rec2.distv.net:80/clemente/clemente/150
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2" tvg-logo="http://distv.net/icons/foxpremium2.png" group-title="FILMES E SERIES",FOX PREMIUM 2
-http://rec2.distv.net:80/clemente/clemente/151
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://distv.net/icons/fx.png" group-title="ENTRETENIMENTO",FX
-http://rec2.distv.net:80/clemente/clemente/229
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://distv.net/icons/hbo.png" group-title="FILMES E SERIES",HBO
-http://rec2.distv.net:80/clemente/clemente/156
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="http://distv.net/icons/hbo2.png" group-title="FILMES E SERIES",HBO 2
-http://rec2.distv.net:80/clemente/clemente/157
-#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY" tvg-logo="http://distv.net/icons/hbofamily.png" group-title="FILMES E SERIES",HBO FAMILY
-http://rec2.distv.net:80/clemente/clemente/158
-#EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="HBO MUNDI" tvg-logo="http://distv.net/icons/hbomundi.png" group-title="FILMES E SERIES",HBO MUNDI
-http://rec2.distv.net:80/clemente/clemente/159
-#EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO PLUS" tvg-logo="http://distv.net/icons/hboplus.png" group-title="FILMES E SERIES",HBO PLUS
-http://rec2.distv.net:80/clemente/clemente/160
-#EXTINF:-1 tvg-id="HBOPOP" tvg-name="HBO POP" tvg-logo="http://distv.net/icons/hbopop.png" group-title="FILMES E SERIES",HBO POP
-http://rec2.distv.net:80/clemente/clemente/161
-#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="http://distv.net/icons/hbosignature.png" group-title="FILMES E SERIES",HBO SIGNATURE
-http://rec2.distv.net:80/clemente/clemente/162
-#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="HBO XTREME" tvg-logo="http://distv.net/icons/hboextreme.png" group-title="FILMES E SERIES",HBO XTREME
-http://rec2.distv.net:80/clemente/clemente/163
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="http://distv.net/icons/megapix.png" group-title="FILMES E SERIES",MEGAPIX
-http://rec2.distv.net:80/clemente/clemente/168
-#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="http://distv.net/icons/space.png" group-title="FILMES E SERIES",SPACE
-http://rec2.distv.net:80/clemente/clemente/187
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://distv.net/icons/studiouniversal.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL
-http://rec2.distv.net:80/clemente/clemente/191
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="http://distv.net/icons/syfy.png" group-title="FILMES E SERIES",SYFY
-http://rec2.distv.net:80/clemente/clemente/192
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="http://distv.net/icons/tbs.png" group-title="FILMES E SERIES",TBS
-http://rec2.distv.net:80/clemente/clemente/193
-#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="TELECINE ACTION" tvg-logo="http://distv.net/icons/tcaction.png" group-title="FILMES E SERIES",TELECINE ACTION
-http://rec2.distv.net:80/clemente/clemente/194
-#EXTINF:-1 tvg-id="TELECINECULT" tvg-name="TELECINE CULT" tvg-logo="http://distv.net/icons/tccult.png" group-title="FILMES E SERIES",TELECINE CULT
-http://rec2.distv.net:80/clemente/clemente/195
-#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="TELECINE FUN" tvg-logo="http://distv.net/icons/tcfun.png" group-title="FILMES E SERIES",TELECINE FUN
-http://rec2.distv.net:80/clemente/clemente/196
-#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="http://distv.net/icons/tcpipoca.png" group-title="FILMES E SERIES",TELECINE PIPOCA
-http://rec2.distv.net:80/clemente/clemente/197
-#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="http://distv.net/icons/tcpremium.png" group-title="FILMES E SERIES",TELECINE PREMIUM
-http://rec2.distv.net:80/clemente/clemente/198
-#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="TELECINE TOUCH" tvg-logo="http://distv.net/icons/tctouch.png" group-title="FILMES E SERIES",TELECINE TOUCH
-http://rec2.distv.net:80/clemente/clemente/199
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://distv.net/icons/tlc.png" group-title="ENTRETENIMENTO",TLC
-http://rec2.distv.net:80/clemente/clemente/200
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://distv.net/icons/tnt.png" group-title="FILMES E SERIES",TNT
-http://rec2.distv.net:80/clemente/clemente/201
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="http://distv.net/icons/tntseries.png" group-title="FILMES E SERIES",TNT SERIES
-http://rec2.distv.net:80/clemente/clemente/202
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV" tvg-logo="http://distv.net/icons/universalchannel.png" group-title="FILMES E SERIES",UNIVERSAL TV
-http://rec2.distv.net:80/clemente/clemente/205
-#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="http://distv.net/icons/warnerchannel.png" group-title="FILMES E SERIES",WARNER CHANNEL
-http://rec2.distv.net:80/clemente/clemente/208
-#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="http://distv.net/icons/woohoo.png" group-title="ENTRETENIMENTO",WOOHOO
-http://rec2.distv.net:80/clemente/clemente/243
+#EXTINF:-1 tvg-id="" tvg-name="BR: A&E HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/23d446c380b7b638d191c8ee096b8303.png" group-title="Brazil",BR: A&E HD
+http://iptvtree.net:8080/geniptv/4faed690fd/8816
+#EXTINF:-1 tvg-id="" tvg-name="BR A&E HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of LifeStyle",BR A&E HD
+http://iptvtree.net:8080/geniptv/4faed690fd/275192
+#EXTINF:-1 tvg-id="" tvg-name="BR: AMC HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/28ce80f56c83746e127421c05b68290c.png" group-title="Brazil",BR: AMC HD
+http://iptvtree.net:8080/geniptv/4faed690fd/8845
+#EXTINF:-1 tvg-id="" tvg-name="BR: AXN FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/81f85350c982e88a4ea07ac7802bd319.png" group-title="Brazil",BR: AXN FHD
+http://iptvtree.net:8080/geniptv/4faed690fd/8852
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE+" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/706adb6981504da3449f7ab07c7a0dc6.png" group-title="Brazil",BR: CINE+
+http://iptvtree.net:8080/geniptv/4faed690fd/7335
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cinemax FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/ec43da7ea739837c267ab3a8d00686c9.png" group-title="Brazil",BR: Cinemax FHD
+http://iptvtree.net:8080/geniptv/4faed690fd/8834
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX Crime" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/4bfd4a035f282bfca1d50528a4ac7c61.png" group-title="Brazil",BR: FOX Crime
+http://iptvtree.net:8080/geniptv/4faed690fd/16366
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/c7f5dd8742f28244a9992857aa579966.png" group-title="Brazil",BR: FOX FHD
+http://iptvtree.net:8080/geniptv/4faed690fd/8817
+#EXTINF:-1 tvg-id="" tvg-name="BR: FX FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/29b0fa9fe99cc48a8942c636566b1f3a.png" group-title="Brazil",BR: FX FHD
+http://iptvtree.net:8080/geniptv/4faed690fd/8835
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO + FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/73c84cd25a33650a215c8ae7ccd4714f.png" group-title="Brazil",BR: HBO + FHD
+http://iptvtree.net:8080/geniptv/4faed690fd/8823
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/de30880a0e32854862b81cebfdff4f32.png" group-title="Brazil",BR: HBO 2 FHD
+http://iptvtree.net:8080/geniptv/4faed690fd/8821
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Family FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/a5f0e3d6c8aa749bb2a72f1b6c77059a.png" group-title="Brazil",BR: HBO Family FHD
+http://iptvtree.net:8080/geniptv/4faed690fd/8839
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/021ac0dac6526eb0c4d8f609b0981a4a.png" group-title="Brazil",BR: HBO FHD
+http://iptvtree.net:8080/geniptv/4faed690fd/8822
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Mundi HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/0f43c56edfab944cec1a8b9571713c82.png" group-title="Brazil",BR: HBO Mundi HD
+http://iptvtree.net:8080/geniptv/4faed690fd/8837
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Pop FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/48ac45310042b36f1406d7d73b9bf562.png" group-title="Brazil",BR: HBO Pop FHD
+http://iptvtree.net:8080/geniptv/4faed690fd/173434
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Signature FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/c93e59083a2c4efbb21fd5c43406d7b8.png" group-title="Brazil",BR: HBO Signature FHD
+http://iptvtree.net:8080/geniptv/4faed690fd/8836
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Xtreme HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/535557537268d0798ae4e911306c09a7.png" group-title="Brazil",BR: HBO Xtreme HD
+http://iptvtree.net:8080/geniptv/4faed690fd/8824
+#EXTINF:-1 tvg-id="" tvg-name="BR: Megapix HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/b2ea93a81aca350f419921ea9805a21a.png" group-title="Brazil",BR: Megapix HD
+http://iptvtree.net:8080/geniptv/4faed690fd/8842
+#EXTINF:-1 tvg-id="" tvg-name="BR: Sony Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b650d306029b0434e50ff20f55752ce4.jpg" group-title="Brazil",BR: Sony Channel HD
+http://iptvtree.net:8080/geniptv/4faed690fd/8882
+#EXTINF:-1 tvg-id="" tvg-name="BR: Star Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/92a9f643d5f5258d19da9374a1491f2e.png" group-title="Brazil",BR: Star Channel HD
+http://iptvtree.net:8080/geniptv/4faed690fd/278658
+#EXTINF:-1 tvg-id="" tvg-name="BR: Studio Universal HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/5707fe8a0dcc6b71bccb7e5f53a7c4ba.png" group-title="Brazil",BR: Studio Universal HD
+http://iptvtree.net:8080/geniptv/4faed690fd/8826
+#EXTINF:-1 tvg-id="" tvg-name="BR: SYFY HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/972867e3ec0db38c275223add00c4d45.png" group-title="Brazil",BR: SYFY HD
+http://iptvtree.net:8080/geniptv/4faed690fd/14485
+#EXTINF:-1 tvg-id="" tvg-name="BR: TBS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/e4693a207df434a6920712ae75db8897.png" group-title="Brazil",BR: TBS HD
+http://iptvtree.net:8080/geniptv/4faed690fd/14649
+#EXTINF:-1 tvg-id="" tvg-name="BR: TCM HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/1465b8cc567084627f7a78332bc7f39a.png" group-title="Brazil",BR: TCM HD
+http://iptvtree.net:8080/geniptv/4faed690fd/8853
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Action FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/382394f54e1cba9d754816738704301a.png" group-title="Brazil",BR: Telecine Action FHD
+http://iptvtree.net:8080/geniptv/4faed690fd/193685
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Cult FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/925e3612d2b98fe7d83b4eab71e1a4ec.png" group-title="Brazil",BR: Telecine Cult FHD
+http://iptvtree.net:8080/geniptv/4faed690fd/197080
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Fun HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b85207092bfc198d2487690fbe3e53ea.png" group-title="Brazil",BR: Telecine Fun HD
+http://iptvtree.net:8080/geniptv/4faed690fd/8831
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Pipoca FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/c78a744003315a9cb807d6a4e2525a91.png" group-title="Brazil",BR: Telecine Pipoca FHD
+http://iptvtree.net:8080/geniptv/4faed690fd/8830
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Premium FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2483792e92c1dd609fcfe7ce17a61178.png" group-title="Brazil",BR: Telecine Premium FHD
+http://iptvtree.net:8080/geniptv/4faed690fd/8829
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Touch FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/238fbd6483ed57f1a9a63a993d2bfff0.png" group-title="Brazil",BR: Telecine Touch FHD
+http://iptvtree.net:8080/geniptv/4faed690fd/8828
+#EXTINF:-1 tvg-id="" tvg-name="BR: TLC HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/68957793aa8d6562c337f95a0e2b9ac2.png" group-title="Brazil",BR: TLC HD
+http://iptvtree.net:8080/geniptv/4faed690fd/7370
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/e8f2a7e44e82191ea91b4de87268d3fb.png" group-title="Brazil",BR: TNT HD
+http://iptvtree.net:8080/geniptv/4faed690fd/8840
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT Series FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/7e7dc3364e03186daa5e25bb25fb185f.png" group-title="Brazil",BR: TNT Series FHD
+http://iptvtree.net:8080/geniptv/4faed690fd/8827
+#EXTINF:-1 tvg-id="" tvg-name="BR: Warner Bros HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/a0d05e26a50d5cb1936f963ba580263e.png" group-title="Brazil",BR: Warner Bros HD
+http://iptvtree.net:8080/geniptv/4faed690fd/8825
+#EXTINF:-1 tvg-id="" tvg-name="BR: WooHoo FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/c1fab44da99480e4910bb7bfc3bc7c5e.png" group-title="Brazil",BR: WooHoo FHD
+http://iptvtree.net:8080/geniptv/4faed690fd/14555
 
 #EXTINF:-1 tvg-id="RAMALHOTV VIP" tvg-logo="https://www.wdkx.com/wp-content/uploads/2020/07/image.png" group-title="Filmes e Séries", Filmes e Series
 http://212.224.9
