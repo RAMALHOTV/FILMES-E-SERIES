@@ -99,6 +99,14 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&strea
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143192
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="Syfy SD" tvg-logo="https://i.imgur.com/6Ap8GT4.png" group-title="CANAIS | FILMES & SERIES",Syfy SD
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143193
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY CHANNEL HD" tvg-logo="https://i.imgur.com/4RlDLWB.png" group-title="CANAIS | FILMES & SERIES",SONY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143186
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY CHANNEL SD" tvg-logo="https://i.imgur.com/4RlDLWB.png" group-title="CANAIS | FILMES & SERIES",SONY CHANNEL SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143187
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD" tvg-logo="https://i.imgur.com/PsyuvBh.png" group-title="CANAIS | FILMES & SERIES",Space HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143188
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space SD" tvg-logo="https://i.imgur.com/PsyuvBh.png" group-title="CANAIS | FILMES & SERIES",Space SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143189
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="https://i.imgur.com/ayhkLSv.png" group-title="CANAIS | FILMES & SERIES",TBS HD
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143194
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="https://i.imgur.com/ayhkLSv.png" group-title="CANAIS | FILMES & SERIES",TBS SD
