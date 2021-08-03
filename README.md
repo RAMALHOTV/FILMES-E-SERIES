@@ -157,3 +157,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&strea
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143200
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES SD" tvg-logo="https://i.imgur.com/Flq10I6.png" group-title="CANAIS | FILMES & SERIES",TNT SÉRIES SD
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143201
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal Channel HD" tvg-logo="https://i.imgur.com/77GBvGG.png" group-title="CANAIS | FILMES & SERIES",Universal Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143202
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal Channel SD" tvg-logo="https://i.imgur.com/77GBvGG.png" group-title="CANAIS | FILMES & SERIES",Universal Channel SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143203
