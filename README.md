@@ -7,7 +7,7 @@ http://distv.
 
 
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/DOahyCo.png" group-title="CANAIS | FILMES & SERIES",A&E HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143162
+plugin://plugin.video.f4mTester/?streamtype=SIMPLE&amp;name=[COLOR lime][B]RAMALHOTV[/B][/COLOR];url=http://srv2021.ga:80/tonny12/tonny12/143162
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://i.imgur.com/DOahyCo.png" group-title="CANAIS | FILMES & SERIES",A&E SD
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143163
 #EXTINF:-1 tvg-id="" tvg-name="ALEXANDRE PIRES #FIQUE EM CASA" tvg-logo="" group-title="CANAIS | 24 HORAS",ALEXANDRE PIRES #FIQUE EM CASA
