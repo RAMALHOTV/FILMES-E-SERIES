@@ -18,10 +18,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&strea
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143164
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://i.imgur.com/ZmBwsXo.png" group-title="CANAIS | FILMES & SERIES",AMC SD
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143165
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/MDCrb9a.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143106
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://i.imgur.com/MDCrb9a.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143107
+
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/chDePCA.png" group-title="CANAIS | FILMES & SERIES",AXN HD
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143166
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/chDePCA.png" group-title="CANAIS | FILMES & SERIES",AXN SD
