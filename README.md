@@ -10,10 +10,7 @@ http://distv.
 plugin://plugin.video.f4mTester/?streamtype=SIMPLE&amp;name=[COLOR lime][B]RAMALHOTV[/B][/COLOR];url=http://srv2021.ga:80/tonny12/tonny12/143162
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://i.imgur.com/DOahyCo.png" group-title="CANAIS | FILMES & SERIES",A&E SD
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143163
-#EXTINF:-1 tvg-id="" tvg-name="ALEXANDRE PIRES #FIQUE EM CASA" tvg-logo="" group-title="CANAIS | 24 HORAS",ALEXANDRE PIRES #FIQUE EM CASA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/180972
-#EXTINF:-1 tvg-id="" tvg-name="All Sports DF" tvg-logo="" group-title="CANAIS | ESPORTE",All Sports DF
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143461
+1
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/ZmBwsXo.png" group-title="CANAIS | FILMES & SERIES",AMC HD
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143164
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://i.imgur.com/ZmBwsXo.png" group-title="CANAIS | FILMES & SERIES",AMC SD
